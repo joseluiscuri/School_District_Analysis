@@ -47,3 +47,4 @@ Thomas High School was the second best school (out of 15) based on % Overall Pas
   - % Passing Math **decreased** by 4 percentual points (from 94 to 90).
   - % Passing Reading also **decreased** by 4 percentual points (from 97 to 93).
   - **Besides this scores, Charter Type Schools have better grades overall than District Type Schools**
+

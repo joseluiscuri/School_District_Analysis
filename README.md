@@ -1,7 +1,9 @@
 # School_District_Analysis
 
 Below, you will find the main results after changing the Thomas High Schools 9th graders' grades while keeping all other data associated with the ninth-grade students and Thomas High School intact.
-NOTE: you will find THS writeen instead of Thomas High School.
+
+
+NOTE: you will find THS written instead of Thomas High School.
 
 **How is the district summary affected?**
 - For math:

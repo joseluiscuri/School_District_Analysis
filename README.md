@@ -28,20 +28,20 @@ This was expected due to the "NaN" grades.
 Thomas High School was the second best school (out of 15) based on % Overall Passing. Now, due to the change in grades, it went down to the 8th place.
 
 **How does removing the ninth grade scores affect the following:**
-- Math and Reading Scores by Grade
+- **Math and Reading Scores by Grade
   - Math scores: the average **decreased** from 80.35 to 80.12
   - Reading scores: the average **decreased** from 82.51 to 82.42
-- Scores by School Spending
+- **Scores by School Spending
   - THS is within the $630 to $644 spending range (no change here becasue the budget nor the number of students changed)
   - The average math and reading score didn't change.
   - % Passing Math **decreased** by 6 percentual points (from 73 to 67).
   - % Passing Reading also **decreased** by 6 percentual points (from 84 to 78).  
-- Scores by School Size
+- **Scores by School Size
   - THS is wihin the Medium range (no change here because the number of students didn't change).
   - The average math and reading score didn't change.
   - % Passing Math **decreased** by 6 percentual points (from 94 to 88).
   - % Passing Reading also **decreased** by 6 percentual points (from 97 to 91).
-- Scores by School Type
+- **Scores by School Type
   - THS is within the Charter School type.
   - The average math and reading score didn't change.
   - % Passing Math **decreased** by 4 percentual points (from 94 to 90).
